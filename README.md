@@ -36,20 +36,22 @@ git clone https://github.com/robel16/YAYA-FS-Coding/tree/master
 ```
 2.cd YAYA-FS-Coding
 
-3.## create ENV file in band past
+3. create ENV file in band past
 
  API_KEY = 'key-test_493e9539-3765-493a-864d-1082e2636168'; 
  API_SECRET='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcGlfa2V5Ijoia2V5LXRlc3RfNDkzZTk1MzktMzc2NS00OTNhLTg2NGQtMTA4MmUyNjM2MTY4Iiwic2VjcmV0IjoiMDUyOTNjMGU1MDlhOWE4ODRiMDVhMWYwZjkzYjdiNjMzMmE1NDUwMSJ9.is7GgbMLZ_ZUT1He9DG1dtEs5CxfpkVlCco0Xo6mHQY';
  
 
-4.## cd Frontend
+4. cd Frontend
 
-5.## npm install
+5. npm install
 
-6.## open another terminal and cd to the backend
-7.## npm install
+6. open another terminal and cd to the backend
 
-5.## Open the Frontend in the browser   http://localhost:5173/
+
+7. npm install
+
+8.## Open the Frontend in the browser   http://localhost:5173/
 ## RESULTS
 ## ** i have used some dummy data to illustrate how it looks **
 ![image](https://github.com/robel16/YAYA-FS-Coding/assets/99750963/c4c1b7ed-3571-4c9d-a67d-6e73b6d8b6ae)
