@@ -34,12 +34,13 @@ To get started with the project, follow these steps:
 ```bash
 git clone https://github.com/robel16/YAYA-FS-Coding/tree/master
 ```
-2.cd YAYA-FS-Coding
+2. cd YAYA-FS-Coding
 
 3. create ENV file in band past
 
- API_KEY = 'key-test_493e9539-3765-493a-864d-1082e2636168'; 
- API_SECRET='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcGlfa2V5Ijoia2V5LXRlc3RfNDkzZTk1MzktMzc2NS00OTNhLTg2NGQtMTA4MmUyNjM2MTY4Iiwic2VjcmV0IjoiMDUyOTNjMGU1MDlhOWE4ODRiMDVhMWYwZjkzYjdiNjMzMmE1NDUwMSJ9.is7GgbMLZ_ZUT1He9DG1dtEs5CxfpkVlCco0Xo6mHQY';
+API_KEY = 'key-test_493e9539-3765-493a-864d-1082e2636168'; 
+
+API_SECRET='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcGlfa2V5Ijoia2V5LXRlc3RfNDkzZTk1MzktMzc2NS00OTNhLTg2NGQtMTA4MmUyNjM2MTY4Iiwic2VjcmV0IjoiMDUyOTNjMGU1MDlhOWE4ODRiMDVhMWYwZjkzYjdiNjMzMmE1NDUwMSJ9.is7GgbMLZ_ZUT1He9DG1dtEs5CxfpkVlCco0Xo6mHQY';
  
 
 4. cd Frontend
